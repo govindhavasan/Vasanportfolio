@@ -22,8 +22,8 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made With <span>💖</span> by{" "}
-              <a title="VIJAY" href="http://vijayraj.vercel.app/">
-                Vijay
+              <a title="VASAN" href="http://vasanportfolio.vercel.app/">
+                Vasan
               </a>
             </li>
           </ul>
