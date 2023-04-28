@@ -1,0 +1,148 @@
+{
+  "link": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80",
+  "main": {
+    "name": "Vasan",
+    "occupation": "Front-end Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "v_profile.jpg",
+    "bio": "Hi there! I am Vasan! You might also know me as Govindhavasan. I have been learning to code for about 3 months. As a front-end developer, along the journey, I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. Along with these, I'm also a computer science student pursuing my BE degree at Anna University Affiliated College, Chennai.",
+    "contactmessage": "Get in touch with me to be a part of developer journey !",
+    "email": "govindhavasan2k19@gmail.com",
+    "phone": "+91 9655616110",
+    "address": {
+      "street": "Pallikaranai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600100"
+    },
+    "website": "#",
+    "resumedownload": "/Resume/vasanDocs.pdf",
+    "social": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/chase_the__next",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/govindhavasan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/chase_the__next/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/govindhavasan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Anna University - Chennai",
+        "degree": "Bachelor's Degree, CSE",
+        "graduated": "May 2023",
+        "description": "Pursuing with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Placibo",
+        "title": "Front-end Developer",
+        "years": "nov 2021 - jan 2022",
+        "description": "Front-End application using React-JS and Firebase."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "C Programming",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "React JS",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "GPA Calci (React JS)",
+        "category": "",
+        "image": "gpacalci.png",
+        "url": "https://gpa-calci.vercel.app/"
+      },
+      {
+        "title": "Bitmoji World (Next JS)",
+        "category": "",
+        "image": "bitmojiworld.png",
+        "url": "https://vijaybitmojiworld.vercel.app/"
+      },
+      {
+        "title": "Apple Redesign (Next JS)",
+        "category": "",
+        "image": "applerd.png",
+        "url": "https://apple-vj.vercel.app/"
+      },
+      {
+        "title": "Chart Generator (React JS)",
+        "category": "",
+        "image": "chartgen.png",
+        "url": "https://chart-gen.netlify.app/"
+      },
+      {
+        "title": "Quizy (React JS)",
+        "category": "",
+        "image": "quizy.png",
+        "url": "https://vj-quizy.vercel.app/"
+      },
+      {
+        "title": "Quora2.0 Clone (React JS)",
+        "category": "",
+        "image": "quora.png",
+        "url": "https://quora2-0.vercel.app/"
+      },
+      {
+        "title": "To (React JS)",
+        "category": "",
+        "image": "todo.png",
+        "url": "https://vj-to.vercel.app/"
+      },
+      {
+        "title": "Evolv fit(React JS)",
+        "category": "",
+        "image": "dash.png",
+        "url": "https://evolvfit-vj.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vasan is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to me... I would definitely recommend",
+        "user": "Vijay Raj"
+      }
+    ]
+  }
+}
